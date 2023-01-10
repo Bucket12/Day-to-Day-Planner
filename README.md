@@ -6,7 +6,7 @@ This application was created to help users neatly plan their daily tasks. With t
 
 ## Installation
 
-Visit: 
+Visit: https://bucket12.github.io/Day-to-Day-Planner/
 
 ## Usage
 
