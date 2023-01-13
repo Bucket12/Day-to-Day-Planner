@@ -44,7 +44,3 @@ $("#hour-14 .time-block").val(localStorage.getItem("14"));
 $("#hour-15 .time-block").val(localStorage.getItem("15"));
 $("#hour-16 .time-block").val(localStorage.getItem("16"));
 $("#hour-17 .time-block").val(localStorage.getItem("17"));
-
-
-
- 
